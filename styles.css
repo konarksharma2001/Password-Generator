@@ -180,7 +180,7 @@ h1 {
 
 
 .check input:checked::before {
-    content: 'âœ”';
+    content: '';
     position: absolute;
     color: var(--dk-text);
     font-size:1.05rem;
