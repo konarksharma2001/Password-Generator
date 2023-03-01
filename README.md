@@ -1,9 +1,14 @@
-# Random-Password-Generator
-A random password generator created using Html , Css , JavaScript.
+# Password-Generator
+ This web application is created using HTML, CSS, and JavaScript to generate strong and randomized passwords for your accounts.
+
+You will be presented with a user interface that allows you to choose the length of the password, as well as the inclusion of uppercase and lowercase letters, numbers, and symbols. You can also exclude certain characters to make the password easier to remember.
+
+Once you have made your selections, simply click the "Generate Password" button and your new password will be displayed on the screen. You can then copy and paste the password into your account registration form.
 
 ## Why use it ?
+It is useful for anyone who needs to create strong and secure passwords for their online accounts. This project takes the guesswork out of password creation by using randomized characters that are difficult to guess, making it much harder for hackers to gain access to your accounts.
 
-Great tool for creating secure passwords without any hasle.
+Using a password generator can also help you avoid using the same password for multiple accounts, which is a common security risk. With this project, you can quickly and easily generate unique passwords for each of your accounts, ensuring that your personal information stays safe and secure.
 
 ## Features 
 * Adjustable Password Length
@@ -17,22 +22,11 @@ Great tool for creating secure passwords without any hasle.
 * HTML
 * CSS
 * JAVASCRIPT
-* MEDIA QUERY
-* FLEXBOX
-
 
 ## ScreenShots :
+![Screenshot (117)](https://user-images.githubusercontent.com/87274294/222137307-6a808ea8-d19c-42c0-8004-8b8b39d6855b.png)
 
+![Screenshot (118)](https://user-images.githubusercontent.com/87274294/222137237-9bb5e0a9-01b0-4e65-8df1-6f362d7c9b0b.png)
 
-### Generate  Passwords Upto Any Length
-
-![Screenshot (154)](https://user-images.githubusercontent.com/87274294/149658593-238a91c7-1715-40df-8e8a-5ce5d0fc7228.png)
-
-![Screenshot (155)](https://user-images.githubusercontent.com/87274294/149658607-98c99514-c382-48a2-9558-4328439d9cc7.png)
-
-![Screenshot (157)](https://user-images.githubusercontent.com/87274294/149658614-1862c6a0-6878-4fa5-9e66-aaf0106c4e02.png)
-
-![Screenshot (158)](https://user-images.githubusercontent.com/87274294/149658623-54f6bb26-4ac0-4d93-a809-ef62230e9e94.png)
 
 ## Link: 
-https://secure-password-today.netlify.app/
